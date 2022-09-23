@@ -1,3 +1,3 @@
 # MechaCar_Statistical_Analysis
 ##
-![Mecha Car Linear Model Summary](./data/mecha_lm_summary.png)
+![Mecha Car Linear Model Summary](mecha_lm_summary.png)
