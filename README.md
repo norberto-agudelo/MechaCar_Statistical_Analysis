@@ -1,4 +1,4 @@
-# Module 14. MechaCar_Statistical_Analysis
+# Module 15. MechaCar_Statistical_Analysis
 ## Overview 
 
 The purpose of this project is to review the AutosRUs’ newest prototype ( MechaCar) production data for insights that may help the manufacturing team to solve potential issues. R language is going to be used to perform several statistical tests on the MechaCar_mpg dataset.
