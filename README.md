@@ -98,6 +98,7 @@ Ha : There is a statistical difference when horsepower is included as independen
 
 Ho: Variables in the data set have a significant impact in maintenance cost
 Ha : Variables in the data set do not have a significant impact in maintenance cost
+
 •	What statistical test would you use to test the hypothesis? And why?
 We could use simple linear regression -lm() - to predict values for the dependent variable from a independent value in this case horsepower.
 However we should use multiple linear regression models -lm()- to predict how much variance in the dependent variable is accounted for in a linear combination of independent variables. In this case mpg or maintenance cost
